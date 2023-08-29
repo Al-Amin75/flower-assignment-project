@@ -137,6 +137,14 @@ main{
     margin-bottom: 128px; 
 }
 
+/* Filed Styles */
+.garden-video{
+    width: 800px;
+    border-radius: 8px;
+    margin-bottom: 128px;
+    margin-left: 500px;
+}
+
 /* Get deals style */
 .deal-section{
     background-image: url('../Flower Asset/Rectangle 9.png');
