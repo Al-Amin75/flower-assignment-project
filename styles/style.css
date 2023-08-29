@@ -159,8 +159,8 @@ main{
     text-align: center;
 }
 .deals-form input[type='email']{
-    width: 700px;
-    height: 64px;
+    width: 500px;
+    height: 50px;
     border-radius: 8px;
     background: #FFF;
     margin-bottom: 128px;
