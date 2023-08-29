@@ -39,6 +39,7 @@ header{
     padding: 30px 30px 0px 150px;
     display: flex;
     align-items: center;
+    gap: 80px;
     justify-content: space-between;
 }
 .banner-content{
@@ -62,7 +63,7 @@ header{
 }
 /* Main section style */
 main{
-    max-width: 100%;
+   
    
 }
 /* Featured section style */
@@ -77,30 +78,33 @@ main{
     gap: 24PX;
     text-align: center;
     text-decoration: underline;
-    justify-content: space-around;
+    justify-content: center;
     margin-top: 48px;
 }
 .featured-flower{
-    width: 464px;
-    height: 538px;
+    width: 364px;
+    height: 438px;
 } 
 #featured-flower1{
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
-    width: 464px;
-    height: 538px;
+    width: 364px;
+    height: 438px;
+    
 }
 #featured-flower2{
     border-radius: 300px 300px 0px 0px;
     background: rgba(5, 151, 160, 0.15);
-    width: 464px;
-    height: 538px;
+    width: 364px;
+    height: 438px;
+    
 }
 #featured-flower3{
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
-    width: 464px;
-    height: 538px;
+    width: 364px;
+    height: 438px;
+    
 }
 
 /* Service Section style */
@@ -139,6 +143,12 @@ main{
     gap: 24px;
     margin-top: 48px;   
     margin-bottom: 128px; 
+
+}
+.instagram-images img{
+    width: 300px;
+    height: 353px;
+
 }
 
 /* Filed Styles */
